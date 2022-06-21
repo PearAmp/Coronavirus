@@ -4,6 +4,11 @@
 https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
 
 ### Create react-native App
+
+#### ติดตั้งแบบ expo
+
+https://reactnative.dev/docs/environment-setup
+
 #### ติดตั้งแบบ Global
 
 https://reactnative.dev/docs/environment-setup
